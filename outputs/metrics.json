@@ -1,0 +1,253 @@
+{
+ "units_total": 4420903,
+ "units_by_year": {
+  "2015": 7752,
+  "2016": 49249,
+  "2017": 87019,
+  "2018": 129763,
+  "2019": 165786,
+  "2020": 123770,
+  "2021": 328854,
+  "2022": 1020533,
+  "2023": 1529234,
+  "2024": 978943
+ },
+ "units_by_category_total": {
+  "Two-wheeler": 2279448,
+  "Three-wheeler": 1934263,
+  "Car / light vehicle": 206388,
+  "Medium vehicle": 804
+ },
+ "growth_2022_to_2023_pct": 49.8,
+ "category_share_2023_pct": {
+  "Two-wheeler": 56.3,
+  "Three-wheeler": 38.2,
+  "Car / light vehicle": 5.5,
+  "Medium vehicle": 0.0
+ },
+ "n_maker_spellings_raw": 1196,
+ "n_makers": 1154,
+ "n_established": 234,
+ "n_long_tail": 920,
+ "established_share_of_units_pct": 97.0,
+ "single_category_makers_pct": 87.0,
+ "top5_share_all_time_pct": 35.1,
+ "top10_share_all_time_pct": 53.5,
+ "top5_share_2023_pct": 44.3,
+ "top10_names_all_time": {
+  "Ola Electric Technologies": 588266,
+  "TVS Motor Company": 318445,
+  "Ather Energy": 236387,
+  "Hero Electric Vehicles": 210123,
+  "Bajaj Auto": 198498,
+  "Okinawa Autotech": 196182,
+  "Mahindra Group": 166135,
+  "YC Electric Vehicle": 157246,
+  "Tata Motors (EV)": 147434,
+  "Ampere Vehicles": 144752
+ },
+ "other_or_test_units": 72900,
+ "choosing_k": [
+  {
+   "k": 2,
+   "silhouette": 0.419,
+   "stability_ari": 0.959,
+   "inertia": 799.4
+  },
+  {
+   "k": 3,
+   "silhouette": 0.348,
+   "stability_ari": 0.947,
+   "inertia": 567.9
+  },
+  {
+   "k": 4,
+   "silhouette": 0.33,
+   "stability_ari": 0.939,
+   "inertia": 454.7
+  },
+  {
+   "k": 5,
+   "silhouette": 0.322,
+   "stability_ari": 0.898,
+   "inertia": 381.0
+  },
+  {
+   "k": 6,
+   "silhouette": 0.332,
+   "stability_ari": 0.853,
+   "inertia": 326.3
+  },
+  {
+   "k": 7,
+   "silhouette": 0.293,
+   "stability_ari": 0.907,
+   "inertia": 289.2
+  }
+ ],
+ "chosen_k": 4,
+ "segments": {
+  "Market leaders": {
+   "makers": 39.0,
+   "units": 3310335.0,
+   "median_units": 34887.0,
+   "recent_share": 0.73,
+   "now_vs_peak": 1.0,
+   "growth_2023": 0.44,
+   "first_year": 2015.0,
+   "share_of_units_pct": 76.1,
+   "units_2023": 1177712.0,
+   "share_of_2023_pct": 77.1
+  },
+  "Steady mid-sized sellers": {
+   "makers": 104.0,
+   "units": 481633.0,
+   "median_units": 3774.0,
+   "recent_share": 0.7,
+   "now_vs_peak": 1.0,
+   "growth_2023": 0.51,
+   "first_year": 2017.0,
+   "share_of_units_pct": 11.1,
+   "units_2023": 155229.0,
+   "share_of_2023_pct": 10.2
+  },
+  "New challengers": {
+   "makers": 57.0,
+   "units": 311306.0,
+   "median_units": 2460.0,
+   "recent_share": 0.97,
+   "now_vs_peak": 1.0,
+   "growth_2023": 1.12,
+   "first_year": 2021.0,
+   "share_of_units_pct": 7.2,
+   "units_2023": 150158.0,
+   "share_of_2023_pct": 9.8
+  },
+  "Faded players": {
+   "makers": 34.0,
+   "units": 115688.0,
+   "median_units": 1943.0,
+   "recent_share": 0.24,
+   "now_vs_peak": 0.19,
+   "growth_2023": -0.38,
+   "first_year": 2016.0,
+   "share_of_units_pct": 2.7,
+   "units_2023": 10846.0,
+   "share_of_2023_pct": 0.7
+  },
+  "Long tail (under 1,000 units)": {
+   "makers": 920.0,
+   "units": 129041.0,
+   "median_units": 33.0,
+   "recent_share": 0.47,
+   "now_vs_peak": 0.0,
+   "growth_2023": 0.0,
+   "first_year": 2018.0,
+   "share_of_units_pct": 3.0,
+   "units_2023": 33618.0,
+   "share_of_2023_pct": 2.2
+  }
+ },
+ "segment_category_mix": {
+  "Faded players": {
+   "Car / light vehicle": 0,
+   "Three-wheeler": 30,
+   "Two-wheeler": 4
+  },
+  "Market leaders": {
+   "Car / light vehicle": 2,
+   "Three-wheeler": 26,
+   "Two-wheeler": 11
+  },
+  "New challengers": {
+   "Car / light vehicle": 3,
+   "Three-wheeler": 37,
+   "Two-wheeler": 17
+  },
+  "Steady mid-sized sellers": {
+   "Car / light vehicle": 2,
+   "Three-wheeler": 99,
+   "Two-wheeler": 3
+  }
+ },
+ "leaders_fallen": {
+  "count": 5,
+  "of": 39,
+  "names": [
+   "Hero Electric Vehicles",
+   "Okinawa Autotech",
+   "Ampere Vehicles",
+   "Pur Energy",
+   "Revolt Intellicorp"
+  ],
+  "top3": {
+   "Hero Electric Vehicles": {
+    "now_vs_peak_pct": 30,
+    "best_year": 2022,
+    "units_2022": 100367,
+    "units_2023": 29964
+   },
+   "Okinawa Autotech": {
+    "now_vs_peak_pct": 31,
+    "best_year": 2022,
+    "units_2022": 103620,
+    "units_2023": 31617
+   },
+   "Ampere Vehicles": {
+    "now_vs_peak_pct": 52,
+    "best_year": 2022,
+    "units_2022": 82247,
+    "units_2023": 42911
+   }
+  }
+ },
+ "leaders_top6": {
+  "Ola Electric Technologies": 588266,
+  "TVS Motor Company": 318445,
+  "Ather Energy": 236387,
+  "Hero Electric Vehicles": 210123,
+  "Bajaj Auto": 198498,
+  "Okinawa Autotech": 196182
+ },
+ "challengers_top6": {
+  "Greaves Electric Mobility": 42879,
+  "Okaya EV": 29116,
+  "Lectrix EV": 27821,
+  "Bgauss Auto": 24148,
+  "Wardwizard Innovations & Mobility": 14410,
+  "Daksh Industries": 13176
+ },
+ "fast_growers_2023": {
+  "Chetak Technology": 243.6,
+  "Pca Automobiles": 98.5,
+  "Ti Clean Mobility": 61.6,
+  "Greaves Electric Mobility": 56.0,
+  "Hero Motocorp": 55.3
+ },
+ "ev_share_of_registered_vehicles_pct": {
+  "Two-wheeler": 0.84,
+  "Three-wheeler": 16.98,
+  "Car / light vehicle": 0.28
+ },
+ "monthly_2024_last_month_units": 9371,
+ "monthly_2024_last_full_month_units": 127912,
+ "last_month": "2024-08-01",
+ "chargers_total": 12146,
+ "chargers_top5": {
+  "Maharashtra": 3079,
+  "Delhi": 1886,
+  "Karnataka": 1041,
+  "Kerala": 852,
+  "Tamil Nadu": 643
+ },
+ "chargers_top5_share_pct": 61.8,
+ "states_with_chargers": 34,
+ "maker_places_by_state": {
+  "Maharashtra": 15,
+  "Tamil Nadu": 11,
+  "Karnataka": 6,
+  "Haryana": 6,
+  "Gujarat": 5
+ },
+ "makers_in_states_with_no_charger_row": []
+}
