@@ -1,6 +1,6 @@
 # EV Market Segmentation (India)
 
-**Live app:** _add your Streamlit link here after you deploy_
+**Live app:** https://ev-market-segmentation-pjka3nrkdzoo9ujahjmyyr.streamlit.app/
 
 I wanted to know who actually sells electric vehicles in India, who is growing, and who has faded. The data has about 1,150 EV makers and ten years of sales. I grouped the makers into four segments, then turned the result into a small web app.
 
